@@ -1,2 +1,2 @@
-# parcialBloque2
-Template vacío para el parcial del bloque 2 en Github Classroom
+# Parcial Bloque 2
+En este fichero aparecerán las instrucciones para hacer el examen parcial del bloque 2
